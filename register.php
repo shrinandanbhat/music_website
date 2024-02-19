@@ -17,7 +17,7 @@
 
 <html>
 <head>
-	<title>Welcome to Slotify!</title>
+	<title>Welcome to Sangeet!</title>
 
 	<link rel="stylesheet" type="text/css" href="assets/css/register.css">
 
